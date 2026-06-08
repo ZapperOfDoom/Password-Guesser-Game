@@ -10,4 +10,4 @@ like CMYK, HSV, or HSL. For the letters, numbers, and symbols that I'll be putti
 it so that it cap sensitive and have it sort whatever input the user gives from A to Z (maybe), [Symbol] to [Symbol] 
 (Idk symbol library start and end, for HTML, CSS, or Javascript), and 0 to 9 in the code itself
 
-It would be nice to create a level select menu, but I don't know how to really do that. 
+It would be nice to create a level select menu, but I don't know how to really do that. It'd also be nice to add unique transitions for each level when complete, but yet again, I don't know how to do it
