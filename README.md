@@ -11,3 +11,5 @@ it so that it cap sensitive and have it sort whatever input the user gives from 
 (Idk symbol library start and end, for HTML, CSS, or Javascript), and 0 to 9 in the code itself
 
 It would be nice to create a level select menu, but I don't know how to really do that. It'd also be nice to add unique transitions for each level when complete, but yet again, I don't know how to do it
+
+Will probably just try to use the filter function, though I don't know how to code for that. For the final level, I could use Test_Image_3.png and make sliders for "Invert", "Contrast", and "Brightness". The numbers I found best suited were 1, 45%, and 220% in that order
