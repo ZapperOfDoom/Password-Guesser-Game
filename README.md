@@ -13,3 +13,5 @@ it so that it cap sensitive and have it sort whatever input the user gives from 
 It would be nice to create a level select menu, but I don't know how to really do that. It'd also be nice to add unique transitions for each level when complete, but yet again, I don't know how to do it
 
 Will probably just try to use the filter function, though I don't know how to code for that. For the final level, I could use Test_Image_3.png and make sliders for "Invert", "Contrast", and "Brightness". The numbers I found best suited were 1, 45%, and 220% in that order
+
+The first level will be "Hello" hidden in the clouds using the invert function. How will I code the javascript to affect the CSS? Idk. The 2nd level *could* involve either the "Invert" and "Contrast" or "Invert" and "Brightness". Either one of the two. The last level which I kinda have an image for would involve all three. Maybe...
